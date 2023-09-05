@@ -1,10 +1,1 @@
-```text
-越过绵绵的高山
-越过无尽的沧海
-如果期待依然在
-总是春暖到花开
-请你轻轻留下来
-让梦卷走这尘埃
-香飘在书厢之外
-奏响美丽的天籁
-```
+<p align="left"><img src="https://github.com/mitoop/mitoop/assets/7368344/dbadc50c-0f57-4dac-8fdc-49125d041b89" width="500" /></p>
