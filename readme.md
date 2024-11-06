@@ -1,6 +1,6 @@
 ```go
 func main() {
-    var Prologue = "Hello World"
+    var Prologue = "Hello guys, welcome"
 
     me := &Me{}
     me.Name = "mitoop"
