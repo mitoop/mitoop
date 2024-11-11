@@ -1,4 +1,6 @@
 ```go
+package mitoop
+
 func main() {
     var Prologue = "Hello guys, welcome"
 
