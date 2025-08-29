@@ -1,4 +1,4 @@
-Hi 👋，我是 [mitoop](https://github.com/mitoop)。
+Hi 👋，我是 [mitoop](https://github.com/mitoop)  
 
 ## 开源项目
 
@@ -17,4 +17,4 @@ Hi 👋，我是 [mitoop](https://github.com/mitoop)。
 🌍 [laravel fxzb](https://github.com/mitoop/laravel-fxzb) — 发现周边，全国影院电影票务代理分销与大牌点餐服务集成工具  
 🎬 [yzh](https://github.com/mitoop/yzh) — 抖音云账户灵活就业服务 SDK  
 
-<img src="https://github.com/mitoop/mitoop/blob/master/mou.gif" alt="过去牛肉" width="100"/>
+<img src="https://github.com/mitoop/mitoop/blob/master/mou.gif" alt="过去牛肉" width="300"/>
